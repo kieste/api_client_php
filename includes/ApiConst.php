@@ -36,7 +36,6 @@ define("SOAP_INTERFACE",                "SoapMethods");
 /**
  * Supported Api Versions
  */
-define("VERSION_2009_07_01",            "2009-07-01");
 define("VERSION_2011_03_01",            "2011-03-01");
 
 
